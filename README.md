@@ -15,7 +15,7 @@ Um portfolio simples feito em pouco tempo
 2. **Site Melodex** - O design de um site para rankear musicas.
 3. **Futuro Portfolio** - O design do meu futuro porfolio, ainda esta em fase de rascunho. 
 
-# Como ver meu portfólio
+## Como ver meu portfólio
 Você pode acessar meu portfólio pela minha pagina do github @LuanaSML
 
 
